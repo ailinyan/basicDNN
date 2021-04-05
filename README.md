@@ -1,2 +1,2 @@
 # basicDNN
-My basic deep neural network projects. For now, it includes Dense Neural Network.
+My basic deep neural network projects. For now, it includes Dense Neural Network, Basic Convolutional NN.
