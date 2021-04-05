@@ -1,2 +1,2 @@
-# basicNN
-My basic neural network projects. For now, it includes Dense Neural Network.
+# basicDNN
+My basic deep neural network projects. For now, it includes Dense Neural Network.
